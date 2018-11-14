@@ -1,0 +1,26 @@
+﻿https://help.github.com/articles/adding-an-existing-project-to-github-using-the-command-line/
+Adding an existing project to GitHub using the command line
+1. Open Git Bash
+2. cd source
+3. cd repos
+4. cd WebDemo
+5. git init
+6. git add .
+7. git commit -m "First commit"
+8. git remote add origin  https://github.com/nationwidesy/WebDemo.git
+	can dopy url from GitHub Clone or download
+9. git remote -v
+10. git push origin master
+
+Team Explorer
+
+new project --> checked Create new Git Repository --> Publish to GitHub
+
+Add source code to GitHub:
+1.Change
+2.Commit All
+3.Sync
+4.Push
+
+
+
