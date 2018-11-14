@@ -24,3 +24,6 @@ Add source code to GitHub:
 
 Edit 11/13/2018 PM
 https://github.com/nationwidesy/Test2/edit/master/Test2/Documents/Test2.txt
+
+Syn at Visual Studio and get the above 2 lines
+Edit 11/13/2018 7:03PM
